@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.4
+gensim>=4.3
+spacy>=3.8
+scispacy>=0.6
+medspacy>=1.3
